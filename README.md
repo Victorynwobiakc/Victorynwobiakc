@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋  
 
-<!--
-**Victorynwobiakc/Victorynwobiakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Victory Nwobia**, a Mechanical Engineer with an interest in Software Engineering.
 
-Here are some ideas to get you started:
+I love building at the intersection of **product design, sustainability, and technology**
+— from prototyping eco-friendly machines to designing robotics systems and developing full-stack web platforms. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Passions:**  
+- Robotics & AI 🤖  
+- Sustainable product design 🌱  
+- Full-stack software engineering 💻  
+- Turning ideas into real, usable solutions 🚀
+
+🎨 **Outside of work:**  
+- Geeking out over futuristic tech concepts and “what-if” engineering ideas 🤯  
+- Drawing ✏️
+- Long evening walks to clear my head 🌆  J
+- Occasionally getting lost in random documentaries 🎥  
+
+✨ **Fun Facts:** 
+- I don’t like coffee or tea (yes, I survive on water and vibes)
+- I’ve definitely taken apart more things than I’ve successfully put back together 😜
+
+
+
+
